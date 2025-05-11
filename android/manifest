@@ -1,0 +1,15 @@
+
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86 x86_64
+description: ti.mlkit.objectdetection
+author: Michael Gangolf
+license: Specify your license
+copyright: Copyright (c) 2025 by Michael Gangolf
+
+# these should not be edited
+name: ti.mlkit.objectdetection
+moduleid: ti.mlkit.objectdetection
+guid: 6264fa06-e19b-48af-88e7-b1f3a8818ebc
+platform: android
+minsdk: 12.7.0.GA
