@@ -1,1 +1,0 @@
-/home/miga/dev/ti.mlkit-detection/android/build/module/src/main/jni/Android.mk

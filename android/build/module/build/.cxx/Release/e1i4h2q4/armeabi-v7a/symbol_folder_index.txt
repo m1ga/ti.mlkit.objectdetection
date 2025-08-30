@@ -1,1 +1,0 @@
-/home/miga/dev/ti.mlkit-detection/android/build/module/build/intermediates/cxx/Release/e1i4h2q4/obj/local/armeabi-v7a
