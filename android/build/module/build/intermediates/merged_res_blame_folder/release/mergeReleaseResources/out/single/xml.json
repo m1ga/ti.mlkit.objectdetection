@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "ti.mlkit.objectdetection.module-release-45:/xml/titanium_ui_horizontal_nested_scrollview.xml",
+        "source": "ti.mlkit.objectdetection.module-titanium-12.8.1-15:/xml/titanium_ui_horizontal_nested_scrollview.xml"
+    },
+    {
+        "merged": "ti.mlkit.objectdetection.module-release-45:/xml/titanium_ui_vertical_nested_scrollview.xml",
+        "source": "ti.mlkit.objectdetection.module-titanium-12.8.1-15:/xml/titanium_ui_vertical_nested_scrollview.xml"
+    }
+]

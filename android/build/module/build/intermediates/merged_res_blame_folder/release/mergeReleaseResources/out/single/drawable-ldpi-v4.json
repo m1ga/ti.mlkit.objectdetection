@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "ti.mlkit.objectdetection.module-release-45:/drawable-ldpi-v4/ic_call_answer.png",
+        "source": "ti.mlkit.objectdetection.module-core-1.13.0-6:/drawable-ldpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "ti.mlkit.objectdetection.module-release-45:/drawable-ldpi-v4/ic_call_decline.png",
+        "source": "ti.mlkit.objectdetection.module-core-1.13.0-6:/drawable-ldpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "ti.mlkit.objectdetection.module-release-45:/drawable-ldpi-v4/ic_call_decline_low.png",
+        "source": "ti.mlkit.objectdetection.module-core-1.13.0-6:/drawable-ldpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "ti.mlkit.objectdetection.module-release-45:/drawable-ldpi-v4/ic_call_answer_video_low.png",
+        "source": "ti.mlkit.objectdetection.module-core-1.13.0-6:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "ti.mlkit.objectdetection.module-release-45:/drawable-ldpi-v4/ic_call_answer_low.png",
+        "source": "ti.mlkit.objectdetection.module-core-1.13.0-6:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "ti.mlkit.objectdetection.module-release-45:/drawable-ldpi-v4/ic_call_answer_video.png",
+        "source": "ti.mlkit.objectdetection.module-core-1.13.0-6:/drawable-ldpi-v4/ic_call_answer_video.png"
+    }
+]

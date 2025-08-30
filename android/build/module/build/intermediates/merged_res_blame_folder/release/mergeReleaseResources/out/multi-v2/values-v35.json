@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "ti.mlkit.objectdetection.module-mergeReleaseResources-43:/values-v35/values-v35.xml",
+            "map": [
+                {
+                    "source": "/home/miga/.gradle/caches/8.10.2/transforms/546ac7f11b9ae06521a4e734c2e87ab3/transformed/titanium-12.8.1/res/values-v35/values-v35.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,330",
+                        "endLines": "6,11",
+                        "endColumns": "9,9",
+                        "endOffsets": "325,621"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "ti.mlkit.objectdetection.module-release-45:/values-v35/values-v35.xml",
+            "map": [
+                {
+                    "source": "/home/miga/.gradle/caches/8.10.2/transforms/546ac7f11b9ae06521a4e734c2e87ab3/transformed/titanium-12.8.1/res/values-v35/values-v35.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,330",
+                        "endLines": "6,11",
+                        "endColumns": "9,9",
+                        "endOffsets": "325,621"
+                    }
+                }
+            ]
+        }
+    ]
+}
